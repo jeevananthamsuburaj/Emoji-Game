@@ -1,5 +1,4 @@
-# Emoji-Game
-Responsive design and React Emoji Game project
+
 # 🎮 Emoji Click Game (React)
 
 A fun and interactive emoji click game built with React! The goal is simple: **click on all emojis without repeating any**. If you click the same emoji twice — game over!
@@ -23,12 +22,6 @@ A fun and interactive emoji click game built with React! The goal is simple: **c
 - CSS / SCSS for styling
 - JavaScript (ES6+)
 - Optionally deployed with Vercel/Netlify
-
----
-
-## 📸 Demo
-
-You can try the live demo here: [Live Demo](#) <!-- Replace with actual deployed link -->
 
 ---
 
