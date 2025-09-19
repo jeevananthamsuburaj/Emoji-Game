@@ -3,7 +3,14 @@
 
 A fun and interactive emoji click game built with React! The goal is simple: **click on all emojis without repeating any**. If you click the same emoji twice — game over!
 
-![Game Screenshot](./screenshot.png) <!-- Replace with your actual image path -->
+
+
+
+## 📸 Screenshot
+
+![webpage](https://github.com/yourusername/your-repo-name/blob/main/screenshots/emoji-game-1.png)
+![webpage](https://github.com/yourusername/your-repo-name/blob/main/screenshots/emoji-game-2.png)
+![webpage](https://github.com/yourusername/your-repo-name/blob/main/screenshots/emoji-game-responsive.png)
 
 ---
 
