@@ -8,7 +8,7 @@ A fun and interactive emoji click game built with React! The goal is simple: **c
 
 ## 📸 Screenshot
 
-![webpage](https://github.com/yourusername/your-repo-name/blob/main/screenshots/emoji-game-1.png)
+![webpage](https://github.com/jeevananthamsuburaj/Emoji-Game/blob/8fdaf7a1918b0c754bcf9539246d7f9a13c881c9/emoji.png)
 ![webpage](https://github.com/yourusername/your-repo-name/blob/main/screenshots/emoji-game-2.png)
 ![webpage](https://github.com/yourusername/your-repo-name/blob/main/screenshots/emoji-game-responsive.png)
 
